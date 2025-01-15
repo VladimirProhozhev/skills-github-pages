@@ -1,4 +1,4 @@
-posts/YYYY-MM-DD-title.md---
+posts/2005-01-15-title.md---
 title: Welcome to my blog
 ---
 title: hello bro
